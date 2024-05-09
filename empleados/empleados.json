@@ -1,0 +1,5 @@
+[
+    { "cargo": "Dueño", "nombre" : "Raul", "apellido" : "Gonzalez", "edad" : 36, "dni" : 30421698},
+    { "cargo": "Dueño", "nombre" : "Analia", "apellido" : "Perez", "edad" : 38, "dni" : 35157891},
+    { "cargo": "Dueño", "nombre" : "Alan", "apellido" : "Quiroga", "edad" : 42, "dni" : 28164951}
+]

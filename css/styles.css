@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+aside{
+    position: fixed;
+    width: 460px;
+    margin-left: 20px;
+    background-color: rgb(97, 97, 167);
+    min-height: 877px;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.input-datos{
+    background-color: rgb(97, 97, 167);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 80%;
+}
+
+.btn-agregar{
+    
+    background-color: rgb(45, 136, 45);
+    width: 60%;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+main{
+    background-color: rgb(190, 190, 190);
+    min-height:800px ;
+    width: 72vw;
+    margin-left: 510px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.marco{
+    margin: 5px;
+    margin-left: 80px;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.azul{
+    background-color: rgb(70, 101, 202);
+}
+
+.verde{
+    background-color: rgb(83, 184, 100);
+}
+
+.rojo{
+    background-color: rgb(180, 57, 57);
+}
+
+.btn-despedir{
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(219, 82, 82);
+    padding: 5px;
+}
+
+.btn-despedir:hover{
+    background-color: rgb(139, 33, 33);
+}
